@@ -2,6 +2,8 @@
   <section class="container">
     <div class="columns body-columns">
       <div class="column is-half is-offset-one-quarter">
+        <card></card>
+        <!--
         <div class="card">
           <div class="header">
             <div class="media">
@@ -199,7 +201,7 @@
             </div>
           </div>
         </div>
-
+-->
         <footer class="footer">
           <div class="container is-fluid">
             <div class="content has-text-centered">
@@ -222,20 +224,10 @@
 </template>
 
 <script>
+import Card from '@/components/Card.vue'
 export default {
-  head() {
-    return {
-      link: [
-        {
-          rel: 'stylesheet',
-          href: 'https://fonts.googleapis.com/icon?family=Material+Icons'
-        },
-        {
-          rel: 'stylesheet',
-          href: 'https://fonts.googleapis.com/css?family=Open+Sans:300,400,700'
-        }
-      ]
-    }
+  components: {
+    Card
   }
 }
 </script>
