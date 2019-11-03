@@ -1,6 +1,7 @@
 # nuxtInstaAlbum
 
 > Free Bulma template - [instaAlbum](https://github.com/dansup/bulma-templates/blob/master/templates/instaAlbum.html)  - using Nuxt.js 
+  - Preview is []
 
 ## Build Setup
 
