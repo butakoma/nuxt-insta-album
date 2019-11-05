@@ -6,7 +6,7 @@
           <div class="media">
             <div class="media-left">
               <figure class="image is-48x48">
-                <img src="https://source.unsplash.com/random/96x96" alt="Placeholder image" />
+                <img :src="post.profImage" alt="Placeholder image" />
               </figure>
             </div>
             <div class="media-content">
@@ -17,7 +17,7 @@
         </div>
         <div class="card-image">
           <figure class="image is-4by3">
-            <img src="https://source.unsplash.com/random/1280x960" alt="Placeholder image" />
+            <img :src="post.image" alt="Placeholder image" />
           </figure>
         </div>
         <div class="card-content">
