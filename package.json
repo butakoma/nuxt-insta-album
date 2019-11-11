@@ -13,24 +13,24 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "@nuxtjs/bulma": "^1.2.4",
-    "cross-env": "^5.2.0",
-    "npm-check-updates": "^3.1.19",
-    "nuxt": "^2.8.1"
+    "@nuxtjs/bulma": "^1.2.6",
+    "cross-env": "^6.0.3",
+    "npm-check-updates": "^3.2.1",
+    "nuxt": "^2.10.2"
   },
   "devDependencies": {
-    "nodemon": "^1.19.1",
-    "@nuxtjs/eslint-config": "^1.0.1",
-    "babel-eslint": "^10.0.2",
-    "eslint": "^6.0.1",
-    "eslint-config-standard": ">=13.0.1",
-    "eslint-plugin-import": ">=2.18.0",
-    "eslint-plugin-jest": ">=22.7.2",
-    "eslint-plugin-node": ">=9.1.0",
-    "eslint-plugin-nuxt": ">=0.4.3",
+    "nodemon": "^1.19.4",
+    "@nuxtjs/eslint-config": "^1.1.2",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.6.0",
+    "eslint-config-standard": ">=14.1.0",
+    "eslint-plugin-import": ">=2.18.2",
+    "eslint-plugin-jest": ">=23.0.3",
+    "eslint-plugin-node": ">=10.0.0",
+    "eslint-plugin-nuxt": ">=0.5.0",
     "eslint-plugin-promise": ">=4.2.1",
-    "eslint-plugin-standard": ">=4.0.0",
-    "eslint-loader": "^2.2.1",
-    "eslint-plugin-vue": "^5.2.3"
+    "eslint-plugin-standard": ">=4.0.1",
+    "eslint-loader": "^3.0.2",
+    "eslint-plugin-vue": "^6.0.0"
   }
 }
