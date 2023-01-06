@@ -16,7 +16,7 @@
     "@nuxtjs/bulma": "^1.2.7",
     "cross-env": "^7.0.2",
     "npm-check-updates": "^4.1.2",
-    "nuxt": "^2.12.2"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "nodemon": "^2.0.3",
